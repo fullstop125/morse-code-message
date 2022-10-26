@@ -40,3 +40,14 @@ def decode_word(word)
   @current_word
 end
 
+def decode(message)
+  @message_array = message.split('  ')
+  @current_message = ''
+  @message_array.each do |word|
+    @current_message += "#{decode_word(word)} "
+  end
+  @current_message.strip
+end
+
+print decode('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+
