@@ -15,7 +15,7 @@
 
 ## 🤝 Contributing
 
-Contributions, [issues](https://github.com/username-forGithub/vet_clinic/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/fullstop125/morse-code-messageissues), and feature requests are welcome!
 
 ## ⭐️ Show your support
 
